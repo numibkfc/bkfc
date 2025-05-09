@@ -2,7 +2,7 @@
   "name": "Crypto Fight Game",
   "symbol": "FIGHT",
   "description": "Welcome to the $Fight game, the official Meme Collectible from Bare Knuckle Fighting Championship!",
-  "image": "https://raw.githubusercontent.com/numibkfc/bkfc/main/BKFC.jpeg",
+  "image": "https://raw.githubusercontent.com/numibkfc/bkfc/main/BKFC.png",
   "extensions": {
     "website": "https://cryptofightgame.com/",
     "twitter": "https://x.com/bareknucklefc"
