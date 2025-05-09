@@ -1,0 +1,11 @@
+{
+  "name": "Hand Deal",
+  "symbol": "HANDDEAL",
+  "description": "Get this deal in hand!",
+  "image": "https://raw.githubusercontent.com/numibkfc/bkfc/main/handdeal.png",
+  "extensions": {
+    "website": "https://www.handdeal.com",
+    "twitter": "https://x.com/handdeal",
+    "telegram": "https://t.me/handdeal"
+  }
+}
